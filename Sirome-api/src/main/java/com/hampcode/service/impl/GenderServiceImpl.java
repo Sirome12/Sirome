@@ -1,5 +1,5 @@
 package com.hampcode.service.impl;
 
-public class GenderServerImpl {
+public class GenderServiceImpl {
 
 }
